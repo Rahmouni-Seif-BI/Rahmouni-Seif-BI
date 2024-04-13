@@ -33,8 +33,8 @@
 
 - 💬 Ask me about **spring or angular or React.js or Node.js**
 
-- 📫 How to reach me **mohamedamine.saassougui@esprit.tn**
-                     OR  **saassouguimedamine@gmail.com**
+- 📫 How to reach me **seif.rahmouni@esprit.tn**
+                     OR  **seif2000rahmouni@gmail.com**
 
 - ⚡ Fun fact **I code with a soundtrack! My favorite tunes and playlists are the perfect companions for programming sessions, adding rhythm and inspiration to my coding adventures. 🎵👨‍💻**
 
