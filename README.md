@@ -8,8 +8,6 @@
 <h1 align="center">Hi 👋, I'm Seif Rahmouni</h1>
 <h3 align="center">A passionate software engineer and full-stack web developer hailing from Tunisia, dedicated to crafting exceptional digital experiences</h3>
 
-## 🥇:Achievements
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifrahmouni" alt="seifrahmouni" /></a> </p>
 
 
 ## ✋:About me
@@ -81,27 +79,3 @@ A tool that takes a table name as input and generates the backend, frontend (for
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Seif Rahmouni's GitHub" height="30" width="40" />
   </a>
 </p>
-
-## 🏅 GitHub Badges
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/general/level.svg" height="30" width="30" alt="Seif Rahmouni's GitHub Badge" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/achievements/achievement.svg" height="30" width="30" alt="Seif Rahmouni's GitHub Achievement Badge" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/code/code.svg" height="30" width="30" alt="Seif Rahmouni's GitHub Code Badge" />
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/repositories/repository.svg" height="30" width="30" alt="Seif Rahmouni's GitHub Repository Badge" />
-</p>
-
-<a href="https://github.com/seifrahmouni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seifrahmouni&show_icons=true&locale=en" alt="seifrahmouni's github stats" />
-</a>
-<a href="https://github.com/seifrahmouni">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifrahmouni&" alt="seifrahmouni's github streak" />
-</a>
-<a href="https://github.com/seifrahmouni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifrahmouni&show_icons=true&locale=en&layout=compact" alt="seifrahmouni's top languages" />
-</a>
-
-<p align="left"> <a href="https://twitter.com/seif_rahmouni_" target="blank"><img src="https://img.shields.io/twitter/follow/seif_rahmouni_?logo=twitter&style=for-the-badge" alt="seif_rahmouni_" /></a> </p>
-```
-
-Save the above content in a file named `README.md` in your GitHub repository. This file will be automatically displayed on the main page of your repository.
