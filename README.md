@@ -1,6 +1,19 @@
-Sure, here's the complete GitHub profile README file content, which you can copy and save as `README.md` in your GitHub repository:
+<a href="https://seifrahmouniwebsite" target="_blank">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead">
+</a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=seifrahmouni&label=Profile%20views&color=0e75b6&style=flat" alt="seifrahmouni's profile views" />
+</p>
 
-```markdown
+<h1 align="center">Hi 👋, I'm Seif Rahmouni</h1>
+<h3 align="center">A passionate software engineer and full-stack web developer hailing from Tunisia, dedicated to crafting exceptional digital experiences</h3>
+
+## 🥇:Achievements
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifrahmouni" alt="seifrahmouni" /></a> </p>
+
+
+## ✋:About me
+<img width="26%" align="right" alt="Coding" src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 ## Hi there, I'm Seif Rahmouni 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seifrahmouni&color=blue)
